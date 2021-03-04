@@ -1,5 +1,6 @@
 # php-xml-array-parser
 Parse an array to XML in php.
+The function transform an array to a XML file or SimpleXMLElement object.
 Its handle with key, values, and attributes.
 To use this function an array needs to follow this structure:
 
